@@ -1,5 +1,5 @@
 ---
-name: 'Terraform Plan/Apply'
+name: 'Terraform Plan/Apply 2'
 
 on:
   push:
